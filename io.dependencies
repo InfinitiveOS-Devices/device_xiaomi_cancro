@@ -3,7 +3,7 @@
     "remote":      "github",
     "repository":  "CyanogenMod/android_kernel_xiaomi_cancro",
     "target_path": "kernel/xiaomi/cancro",
-    "revision":    "io-1.0"
+    "revision":    "cm-12.1"
   },
   {
     "remote":      "github",

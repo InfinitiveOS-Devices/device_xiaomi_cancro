@@ -26,7 +26,7 @@ $(call inherit-product, device/xiaomi/cancro/cancro.mk)
 $(call inherit-product, vendor/io/config/nfc_enhanced.mk)
 
 # Inherit some common IO stuff.
-$(call inherit-product, vendor/io/config/common_mini_phone.mk)
+$(call inherit-product, vendor/io/config/common_full_phone.mk)
 
 PRODUCT_NAME := io_cancro
 PRODUCT_DEVICE := cancro
